@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"name": "Netbot",
+		"image": "Netbot.png",
+		"url": "https://github.com/clwillingham/Netbot-code",
+		"date": "August 2014",
+		"tags": ["Arduino","C", "Robotics"]
 	},
 	{
 		"name": "Cool project 2",
